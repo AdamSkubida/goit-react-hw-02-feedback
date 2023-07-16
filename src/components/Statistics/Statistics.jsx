@@ -10,7 +10,7 @@ export class Statistics extends Component {
         <li>Neutral: {neutral}</li>
         <li>Bad: {bad}</li>
         <li>Total votes: {total}</li>
-        <li>Positive votes: {positivePercentage}</li>
+        <li>ositive votes: {positivePercentage}</li>
       </ul>
     );
   }
